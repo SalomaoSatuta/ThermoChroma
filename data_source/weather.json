@@ -1,0 +1,219 @@
+[
+    {
+        "temperatura": -90,
+        "estado": "Frigidez Extrema",
+        "cor": "Azul Escuro",
+        "hex": "#0000FF",
+        "tecido": "Lã de Camelo ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -85,
+        "estado": "Congelante ao Extremo",
+        "cor": "Azul",
+        "hex": "#0000FF",
+        "tecido": "Lã de Camelo ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -80,
+        "estado": "Gélido Intenso",
+        "cor": "Azul Claro",
+        "hex": "#ADD8E6",
+        "tecido": "Lã de Camelo ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -75,
+        "estado": "Frio Cortante",
+        "cor": "Ciano",
+        "hex": "#00FFFF",
+        "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -70,
+        "estado": "Frio Penetrante",
+        "cor": "Turquesa",
+        "hex": "#40E0D0",
+        "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -65,
+        "estado": "Frio Profundo",
+        "cor": "Verde-água",
+        "hex": "#00CED1",
+        "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -60,
+        "estado": "Frio Intenso",
+        "cor": "Verde-azulado",
+        "hex": "#008080",
+        "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -55,
+        "estado": "Frio Aderente",
+        "cor": "Azul-esverdeado",
+        "hex": "#2E8B57",
+        "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -50,
+        "estado": "Frio Penoso",
+        "cor": "Verde",
+        "hex": "#008000",
+        "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados"
+    },
+    {
+        "temperatura": -45,
+        "estado": "Frio Suportável",
+        "cor": "Verde Claro",
+        "hex": "#00FF00",
+        "tecido": "Lã de Alpaca ou Camadas de Tecidos Leves"
+    },
+    {
+        "temperatura": -40,
+        "estado": "Frio Tolerável",
+        "cor": "Amarelo-esverdeado",
+        "hex": "#ADFF2F",
+        "tecido": "Lã de Alpaca ou Camadas de Tecidos Leves"
+    },
+    {
+        "temperatura": -35,
+        "estado": "Frescor Gélido",
+        "cor": "Amarelo",
+        "hex": "#FFFF00",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": -30,
+        "estado": "Frescor Refrescante",
+        "cor": "Amarelo Claro",
+        "hex": "#FFFFE0",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": -25,
+        "estado": "Frescor Revigorante",
+        "cor": "Amarelo Pálido",
+        "hex": "#FAFAD2",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": -20,
+        "estado": "Frescor Reconfortante",
+        "cor": "Bege",
+        "hex": "#F5F5DC",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": -15,
+        "estado": "Conforto Acogedor",
+        "cor": "Creme",
+        "hex": "#FFF8DC",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": -10,
+        "estado": "Aconchego Agradável",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": -5,
+        "estado": "Conforto Leve",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": 0,
+        "estado": "Conforto Neutro",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": 5,
+        "estado": "Conforto Moderado",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Camadas de Roupa ou Algodão"
+    },
+    {
+        "temperatura": 10,
+        "estado": "Conforto Agradável",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Tecidos Leves ou Algodão"
+    },
+    {
+        "temperatura": 15,
+        "estado": "Frescor Suave",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Tecidos Leves ou Algodão"
+    },
+    {
+        "temperatura": 20,
+        "estado": "Frescor Ameno",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Tecidos Leves ou Algodão"
+    },
+    {
+        "temperatura": 25,
+        "estado": "Frescor Sutil",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Tecidos Leves"
+    },
+    {
+        "temperatura": 30,
+        "estado": "Frescor Confortável",
+        "cor": "Branco",
+        "hex": "#FFFFFF",
+        "tecido": "Tecidos Leves"
+    },
+    {
+        "temperatura": 35,
+        "estado": "Calor Revigorante",
+        "cor": "Amarelo",
+        "hex": "#FFFF00",
+        "tecido": "Tecidos Frescos ou Linho"
+    },
+    {
+        "temperatura": 40,
+        "estado": "Calor Escaldante",
+        "cor": "Amarelo-alaranjado",
+        "hex": "#FFD700",
+        "tecido": "Tecidos Frescos ou Linho"
+    },
+    {
+        "temperatura": 45,
+        "estado": "Calor Abrasador",
+        "cor": "Laranja",
+        "hex": "#FFA500",
+        "tecido": "Tecidos Leves como Algodão ou Linho"
+    },
+    {
+        "temperatura": 50,
+        "estado": "Calor Intenso",
+        "cor": "Laranja Intenso",
+        "hex": "#FF8C00",
+        "tecido": "Tecidos Leves como Algodão ou Linho"
+    },
+    {
+        "temperatura": 55,
+        "estado": "Calor Abrasador",
+        "cor": "Vermelho-alaranjado",
+        "hex": "#FF4500",
+        "tecido": "Tecidos Leves como Algodão"
+    },
+    {
+        "temperatura": 60,
+        "estado": "Calor Escaldante",
+        "cor": "Vermelho",
+        "hex": "#FF0000",
+        "tecido": "Tecidos Leves como Algodão"
+    }
+]
