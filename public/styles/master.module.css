@@ -1,0 +1,52 @@
+.flexbox {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:400px;
+    /* background:#f5f5f5; */
+  }
+    
+  .flexbox  .item {
+      padding:1em;
+      /* background:orange; */
+      width: 500px;
+  }
+
+  .mySelect{
+    width: 100%;
+    border: none;
+    /* background-color: whitesmoke; */
+    padding: 15px;
+    outline: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+  }
+     
+  .btnGrad {
+    background-image: linear-gradient(to right, #1D2B64 0%, #F8CDDA  51%, #1D2B64  100%);
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    border: none;
+    display: block;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    cursor: pointer;
+  }
+
+  .btnGrad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .title{
+    font-family: 'Inter', sans-serif;
+    color:#1D2B64;
+  }
+ 
+  
