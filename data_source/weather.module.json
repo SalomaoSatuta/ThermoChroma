@@ -1,0 +1,131 @@
+[
+    {
+      "temperatura": -90,
+      "estado": "Frigidez Extrema",
+      "cor": "Azul Escuro",
+      "hex": "#00008B",
+      "tecido": "Lã de Camelo ou Tecidos Térmicos Avançados",
+      "descricao": "Neste extremo gélido, a cor azul escura traz sensação de frio profundo e o uso de lã de camelo ou materiais térmicos avançados é essencial para reter o calor do corpo."
+    },
+    {
+      "temperatura": -80,
+      "estado": "Gélido Intenso",
+      "cor": "Azul Claro",
+      "hex": "#00BFFF",
+      "tecido": "Lã de Camelo ou Tecidos Térmicos Avançados",
+      "descricao": "O gélido intenso é mitigado pelo uso de cores azuis claras, que trazem um pouco de frescor. A lã de camelo ou materiais térmicos ajudam a manter o calor corporal."
+    },
+    {
+      "temperatura": -70,
+      "estado": "Frio Cortante",
+      "cor": "Branco Gélido",
+      "hex": "#F0F8FF",
+      "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados",
+      "descricao": "No frio cortante, o branco gélido traz uma sensação de aconchego. A lã de ovelha ou materiais térmicos oferecem proteção contra a baixa temperatura."
+    },
+    {
+      "temperatura": -60,
+      "estado": "Frio Pungente",
+      "cor": "Verde Polar",
+      "hex": "#00FA9A",
+      "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados",
+      "descricao": "O verde polar traz um toque de vitalidade ao frio pungente. Lã de ovelha ou materiais térmicos são como abraços quentes em temperaturas assim."
+    },
+    {
+      "temperatura": -50,
+      "estado": "Frio Rigoroso",
+      "cor": "Verde Floresta",
+      "hex": "#228B22",
+      "tecido": "Lã de Ovelha ou Tecidos Térmicos Avançados",
+      "descricao": "O verde floresta proporciona uma conexão com a natureza mesmo em meio ao frio rigoroso. Opte por lã de ovelha ou materiais térmicos para enfrentar essa condição."
+    },
+    {
+      "temperatura": -40,
+      "estado": "Frio Suficiente",
+      "cor": "Verde Suave",
+      "hex": "#9ACD32",
+      "tecido": "Lã de Alpaca ou Camadas de Tecidos Leves",
+      "descricao": "O verde suave sugere um alívio na intensidade do frio. Use lã de alpaca ou camadas de tecidos leves para equilibrar a proteção e o conforto."
+    },
+    {
+      "temperatura": -30,
+      "estado": "Frescor Leve",
+      "cor": "Amarelo Suave",
+      "hex": "#FFFFE0",
+      "tecido": "Camadas de Roupa ou Algodão",
+      "descricao": "O amarelo suave traz a sensação de um frescor ameno. Opte por camadas de roupa ou tecidos de algodão para manter o conforto térmico."
+    },
+    {
+      "temperatura": -20,
+      "estado": "Frescor Suave",
+      "cor": "Bege Aconchegante",
+      "hex": "#FAEBD7",
+      "tecido": "Camadas de Roupa ou Algodão",
+      "descricao": "O frescor suave é acompanhado por tons de bege que proporcionam um aconchego. Camadas de roupa ou tecidos de algodão são ideais para essa sensação."
+    },
+    {
+      "temperatura": -10,
+      "estado": "Aconchego Agradável",
+      "cor": "Branco Conforto",
+      "hex": "#FFFFFF",
+      "tecido": "Camadas de Roupa ou Algodão",
+      "descricao": "O aconchego agradável é realçado pelo branco, que traz sensação de conforto. Camadas de roupa ou tecidos de algodão são como abraços térmicos."
+    },
+    {
+      "temperatura": 0,
+      "estado": "Conforto Neutro",
+      "cor": "Cinza Neutro",
+      "hex": "#808080",
+      "tecido": "Camadas de Roupa ou Algodão",
+      "descricao": "O conforto neutro é acompanhado por tons de cinza, que representam equilíbrio. Opte por camadas de roupa ou tecidos de algodão para uma sensação agradável."
+    },
+    {
+      "temperatura": 10,
+      "estado": "Conforto Agradável",
+      "cor": "Amarelo Sereno",
+      "hex": "#FFFF66",
+      "tecido": "Tecidos Leves ou Algodão",
+      "descricao": "O conforto agradável é irradiado pelo amarelo sereno, trazendo uma sensação de tranquilidade térmica. Escolha tecidos leves ou algodão para se sentir bem."
+    },
+    {
+      "temperatura": 20,
+      "estado": "Frescor Ameno",
+      "cor": "Verde Suave",
+      "hex": "#90EE90",
+      "tecido": "Tecidos Leves ou Algodão",
+      "descricao": "O frescor ameno é acompanhado por tons de verde suave, evocando serenidade. Tecidos leves ou algodão mantêm você confortável e à vontade."
+    },
+    {
+      "temperatura": 30,
+      "estado": "Frescor Confortável",
+      "cor": "Azul Agradável",
+      "hex": "#87CEEB",
+      "tecido": "Tecidos Leves",
+      "descricao": "O frescor confortável é realçado pelo azul agradável, trazendo uma sensação de leveza. Opte por tecidos leves para um equilíbrio térmico ideal."
+    },
+    {
+      "temperatura": 40,
+      "estado": "Calor Suportável",
+      "cor": "Laranja Energia",
+      "hex": "#FFA500",
+      "tecido": "Tecidos Frescos ou Linho",
+      "descricao": "No calor suportável, a cor laranja energética representa a vitalidade. Tecidos frescos ou linho ajudam a manter a temperatura corporal em equilíbrio."
+    },
+    {
+      "temperatura": 50,
+      "estado": "Calor Intenso",
+      "cor": "Vermelho Ardente",
+      "hex": "#FF0000",
+      "tecido": "Tecidos Leves como Algodão ou Linho",
+      "descricao": "O calor intenso é simbolizado pelo vermelho ardente. Opte por tecidos leves como algodão ou linho para enfrentar o calor com conforto e estilo."
+    },
+    {
+      "temperatura": 60,
+      "estado": "Calor Abrasador",
+      "cor": "Amarelo-alaranjado",
+      "hex": "#FFD700",
+      "tecido": "Tecidos Frescos ou Linho",
+      "descricao": "No calor abrasador, a cor amarelo-alaranjado traz o brilho do sol. Tecidos frescos ou linho são a escolha certa para se manter fresco."
+    }
+  ]
+  

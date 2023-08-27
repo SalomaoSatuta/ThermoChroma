@@ -2,13 +2,12 @@
     display:flex;
     justify-content:center;
     align-items:center;
-    height:400px;
+
     /* background:#f5f5f5; */
   }
     
   .flexbox  .item {
       padding:1em;
-      /* background:orange; */
       width: 500px;
   }
 
@@ -21,7 +20,29 @@
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
   }
-     
+
+  .myListUl{
+    text-decoration: none;
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+
+  .myList{
+    margin-top: 6px;
+    transition: .2s!important;
+  }
+
+  .myList:hover{
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    transition: .3s!important;
+    color:#1D2B64;
+  }
+
   .btnGrad {
     background-image: linear-gradient(to right, #1D2B64 0%, #F8CDDA  51%, #1D2B64  100%);
     padding: 15px 45px;
